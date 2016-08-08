@@ -1,0 +1,14 @@
+layout_spectrum: 0.9618689
+color:
+  saturation: 0.1268837
+  lightness: 0.1490511
+  brandStrength: 0.8140037
+  rhythmicContrast: 0.5750876
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+typography_spectrum: 0.7952029
+name: Toronto16
